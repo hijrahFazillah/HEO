@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\hijra\OneDrive\Documents\University\2. UTeM\.SEM 4\Evolutionary Computing\Evo Project\Source.cpp(52,19): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\hijra\OneDrive\Documents\University\2. UTeM\.SEM 4\Evolutionary Computing\Evo Project\Source.cpp(348,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Evo Project.vcxproj -> C:\Users\hijra\OneDrive\Documents\University\2. UTeM\.SEM 4\Evolutionary Computing\Evo Project\x64\Debug\Evo Project.exe
